@@ -23,7 +23,7 @@ Full details at [vektasafe.github.io](https://vektasafe.github.io)
 | [cybersecurity](https://github.com/vektasafe/cybersecurity) | Web2 attack research and PicoCTF writeups | In Progress |
 | [financial-markets](https://github.com/vektasafe/financial-markets) | Tokenised forex, DeFi market manipulation, and TradFi-DeFi convergence research | Complete |
 | [octio](https://github.com/vektasafe/octio) | On-Chain Threat Intelligence Oracle -- Gemma 4 powered Web3 threat intelligence | Active |
-| [ideas](https://github.com/vektasafe/ideas) | Documented product innovation proposals | Active |
+| [Research-Ideas](https://github.com/vektasafe/Research-Ideas) | Documented product innovation proposals | Active |
 
 ---
 
@@ -31,7 +31,7 @@ Full details at [vektasafe.github.io](https://vektasafe.github.io)
 Web3 Security       --  Smart contract auditing, DeFi vulnerability research, EVM internals
 Cybersecurity       --  Infrastructure security, Web2 attack vectors on Web3 systems
 Financial Markets   --  Forex, tokenised RWAs, DeFi trading protocols, market manipulation
-Product Innovation  --  Documenting and developing ideas that solve real problems
+Product Innovation  --  Documenting, developing, and researching ideas that solve real problems
 
 > 80% of money stolen in Web3 originates from Web2 infrastructure attacks.
 > Mastering all three layers -- contracts, infrastructure, and finance -- is the edge.
